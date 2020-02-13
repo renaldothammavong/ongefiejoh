@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ayaijohsh.willcohen.net/sitemap.xml
